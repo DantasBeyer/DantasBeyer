@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [MERN Project for Musikbrauerei-Berlin](https://github.com/DantasBeyer/mern-app-server)
 
-- 🌱 I’m currently learning **Angular / Vue**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Web Development**
 

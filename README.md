@@ -8,15 +8,9 @@
 
 <img align="right" alt="Coding" width="300" margin="10px"   src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 🔭 I’m currently working on [MERN Project for Musikbrauerei-Berlin](https://github.com/DantasBeyer/mern-app-server)
 
-- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **dantasbeyer@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Linkedin:</h3>
 <p align="left">
      <a href="https://linkedin.com/in/joão beyer" target="blank"><img align="center"                          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão beyer" height="30" width="40" /></a>
 </p>

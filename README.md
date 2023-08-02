@@ -1,6 +1,6 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=2147483647&v=beta&t=_9FtKJcA9d2CdwIVXRLesSUgYymeUYZ6GlVYi2IxFY0)
 <h1 align="center">Hi 👋, I'm João Beyer</h1>
-<h3 align="center" width="400">I am  Brazilian living in Germany for 13 years <br>I'm until July 2025 studying Computer Science / Software Development<br>
+<h3 align="center" width="400"> <br>I'm until July 2025 studying Computer Science / Software Development<br>
   <br> Feel free to get in touch for future projects or exchange experiences.</h3>
 
 <p align="center">

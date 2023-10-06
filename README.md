@@ -4,7 +4,7 @@
   <br> Feel free to get in touch for future projects or exchange experiences.</h3>
 
 
-  <img src="https://giphy.com/embed/13HgwGsXF0aiGY" alt="programer" width="480" height="270"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programer" width="480" height="270"/>
 
 
 

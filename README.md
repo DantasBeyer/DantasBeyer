@@ -2,10 +2,13 @@
 <h1 align="center">Hi 👋, I'm João </h1>
 <h3 align="center" width="400"> <br>I'm until July 2025 studying Computer Science / Software Development<br>
   <br> Feel free to get in touch for future projects or exchange experiences.</h3>
-  
+  <br>
+  <br>
 <p align="center">
   <img  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  alt="programmer" width="480" height="270"/>
 </p>
+<br>
+<br>
 
 <h3 align="center" backgroundcolor="white">Languages and Tools:</h3>
 

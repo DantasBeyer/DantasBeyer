@@ -10,8 +10,8 @@
 <h3 align="center" backgroundcolor="white">Languages and Tools:</h3>
 
 <p align="center"> 
-  <iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+  
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
 </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
